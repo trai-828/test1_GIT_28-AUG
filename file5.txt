@@ -1,0 +1,5 @@
+GitHub is a developer platform that allows developers to create, store, manage and share their code. It uses Git software, providing the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project. Wikipedia
+Founders: Chris Wanstrath, Scott Chacon, Tom Preston-Werner, P. J. Hyett
+Subsidiaries: Github India Private Limited, npm, Inc., Good Software LLC, Semmle Limited
+Founded: February 2008, San Francisco, California, United States
+CEO: Thomas Dohmke (15 Nov 2021–)
